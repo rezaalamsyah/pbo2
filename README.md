@@ -1,0 +1,13 @@
+# pbo2
+latihan 1
+![alt text](https://github.com/rezaalamsyah/pbo2/blob/master/1.PNG)
+latihan 2
+![alt text](https://github.com/rezaalamsyah/pbo2/blob/master/2.PNG)
+latihan 3
+![alt text](https://github.com/rezaalamsyah/pbo2/blob/master/3.PNG)
+latihan 4
+![alt text](https://github.com/rezaalamsyah/pbo2/blob/master/4.PNG)
+praktikum 1
+![alt text](https://github.com/rezaalamsyah/pbo2/blob/master/5.PNG)
+praktikum 2
+![alt text](https://github.com/rezaalamsyah/pbo2/blob/master/6.PNG)
